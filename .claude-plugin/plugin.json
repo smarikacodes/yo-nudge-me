@@ -1,0 +1,8 @@
+{
+  "name": "yo-nudge-me",
+  "version": "0.1.1",
+  "description": "Mario yells when Claude Code needs you, but only when you're not looking. Instant permission alerts, task-complete sounds, focus-aware, zero dependencies.",
+  "author": { "name": "smarikacodes" },
+  "license": "MIT",
+  "keywords": ["notification", "sound", "focus", "permission", "mario", "hooks"]
+}

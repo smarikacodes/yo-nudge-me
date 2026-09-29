@@ -1,0 +1,12 @@
+{
+  "name": "yo-nudge-me",
+  "description": "Focus-aware sound alerts for Claude Code",
+  "owner": { "name": "smarikacodes", "url": "https://github.com/smarikacodes" },
+  "plugins": [
+    {
+      "name": "yo-nudge-me",
+      "source": ".",
+      "description": "Mario yells when Claude Code needs you, but only when you're not looking."
+    }
+  ]
+}
